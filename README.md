@@ -20,7 +20,7 @@ The **Algorithm Visualizer Graph** is an interactive web application that allows
 
 ## Tools Used
 
-- **JavaScript**: Programming language for logic implementation
+- **JavaScript**: Programming language for logic implementation.
 - **HTML/CSS**: The core technologies for building the web application.
 - **D3.js**: A powerful library for creating interactive visualizations.
 - **Bootstrap**: For responsive design and styling.
