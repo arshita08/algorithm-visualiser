@@ -1,0 +1,11 @@
+.array-container {
+  display: flex;
+  align-items: flex-end;
+  border: 1px solid black;
+}
+
+.array-bar {
+  background-color: turquoise;
+  width: 20px;
+  margin: 0 1px;
+}

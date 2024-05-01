@@ -1,0 +1,32 @@
+@mixin headerStyle($padding: 3rem, $gap: 2rem, $fontSize: 3rem) {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  gap: $gap;
+  width: 100%;
+  padding: $padding;
+
+  &__title {
+    display: inline-block;
+    margin-right: auto;
+    font-size: $fontSize;
+    color: $header-title-color;
+  }
+
+  &__operationBtn {
+    padding: 1rem;
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+    background-color: $header-btn-background;
+    color: $header-btn-text-color;
+    font-weight: 700;
+  }
+}
+
+@mixin flexCenter() {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
