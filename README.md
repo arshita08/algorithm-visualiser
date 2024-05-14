@@ -9,8 +9,9 @@ To get the visualizer up and running on your local machine, follow these steps:
 1. Clone the repository to your local machine.
 2. Navigate to the `frontend` directory: `cd frontend`
 3. Install the necessary dependencies: `npm install`
-4. Start the development server: `npm run dev`
-5. Access the application in your browser at: http://localhost:5173
+4. Navigate to the `root` directory: `cd frontend`
+5. Start the development server: `npm run client`
+6. Access the application in your browser at: http://localhost:5173
 
 
 ## Usage
@@ -38,11 +39,11 @@ To get the visualizer up and running on your local machine, follow these steps:
 - **Vite**: Frontend tooling for faster development and building.
 - **JavaScript**: Programming language for logic implementation.
 - **HTML/CSS**: The core technologies for building the web application.
-- **Bootstrap**: For responsive design and styling.
+- **Sass**: For advanced design and styling.
 - **Git/GitHub**: Version control and collaboration.
 
 ## Contributors
 
 1. Arshita Sharma (@asharm42)
 2. Richa Patel (@richricha93)
-3. Venkat Gopu (@Vgopu)
+3. Venkat Harish Reddy Gopu (@harish04010)
