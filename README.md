@@ -18,12 +18,12 @@ To get the visualizer up and running on your local machine, follow these steps:
 
 - Select an algorithm category from the tabs (Sorting or Graphs).
 - For sorting algorithms:
-- Choose a sorting algorithm from the dropdown menu.
-- Click the **Sort** button to visualize the algorithm with randomly generated data.
+- Chlick on a sorting algorithm from the available sorting buttons.
+- Click the **Reset** button to generate new values randomly and test another algorithm.
 - For graph algorithms:
-- Select a graph algorithm from the dropdown menu.
 - Customize the graph by adding nodes and edges.
-- Click the **Visualize** button to see the algorithm in action.
+- Click on a **graph algorithm** button from the available serach buttons.
+- Click on **Reset** button to reset the maze.
 
 ## Features
 
