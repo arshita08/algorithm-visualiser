@@ -42,8 +42,4 @@ To get the visualizer up and running on your local machine, follow these steps:
 - **Sass**: For advanced design and styling.
 - **Git/GitHub**: Version control and collaboration.
 
-## Contributors
 
-1. Arshita Sharma (@asharm42)
-2. Richa Patel (@richricha93)
-3. Venkat Harish Reddy Gopu (@harish04010)
